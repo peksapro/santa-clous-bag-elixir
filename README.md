@@ -1,4 +1,4 @@
-# SantaClousBag
+# Santa Clous Bag - backend GraphQL API
 
 To start your Phoenix server:
 
